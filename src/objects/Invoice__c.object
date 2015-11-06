@@ -88,5 +88,5 @@
     <pluralLabel>Invoices</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-    <startsWith>Vowel</startsWith>
+    <!--startsWith>Vowel</startsWith-->
 </CustomObject>
